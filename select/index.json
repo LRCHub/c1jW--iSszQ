@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ビバ★ロック",
+  "base_artist": "ORANGE RANGE",
+  "createdAt": "2026-01-14T03:13:30.802070Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ビバ★ロック",
+      "artist": "Orange Range",
+      "has_synced": true,
+      "path": "select/01_ビバ★ロック_Orange_Range.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ビバ★ロック(アルバムリミックス)",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/02_ビバ★ロック(アルバムリミックス)_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ビバ★ロック ~japanese side~",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/03_ビバ★ロック_~japanese_side~_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ビバ★ロック 〜japanese side〜",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/04_ビバ★ロック_〜japanese_side〜_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ビバ★ロック",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/05_ビバ★ロック_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ビバ★ロック（アルバムリミックス）",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/06_ビバ★ロック(アルバムリミックス)_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ビバ★ロック - Biva Rock",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/07_ビバ★ロック_-_Biva_Rock_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビバ★ロック",
+      "artist": "ORANGE RANGE",
+      "has_synced": false,
+      "path": "select/pl_01_ビバ★ロック_ORANGE_RANGE.txt"
+    }
+  ]
+}
